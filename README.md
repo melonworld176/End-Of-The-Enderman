@@ -4,7 +4,7 @@
 This is a new concept for military grade enderman farms. This design is more a proof of concept than an actual farm, but we are still working on improving the design.
 
 ## !!WARNING!!
-Make sure to turn your hostile mob volume down to 5% or lower cause otherwise your ears are bleeding in ~2 seconds.
+Make sure to turn your hostile mob volume down to 5% or lower cuz otherwise your ears are bleeding in ~2 seconds.
 A military grade farm for military grade tinnitus.
 
 #### Enderman farm go brrrrr.
