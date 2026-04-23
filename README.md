@@ -9,6 +9,8 @@ A military grade farm for military grade tinnitus.
 
 #### Enderman farm go brrrrr.
 
+For improvements/issue you can open a issue.
+
 ## Authors
 
 - [@Melonworld176](https://github.com/melonworld176)
