@@ -11,7 +11,7 @@ A military grade farm for military grade tinnitus.
 
 For improvements/issue you can open a issue.
 
-#### Showcast video by bearnitt: https://www.youtube.com/watch?v=Lx4Z4gx-kGQ
+#### Showcast video by bearnitt for mk1: https://www.youtube.com/watch?v=Lx4Z4gx-kGQ
 
 ## Authors
 
