@@ -13,6 +13,10 @@ For improvements/issue you can open a issue.
 
 #### Showcast video by bearnitt for mk1: https://www.youtube.com/watch?v=Lx4Z4gx-kGQ
 
+## Warning
+Project has permanently moved over the codeberg and this repo will not be update in the future.
+Codeberg: https://codeberg.org/melonworld176/End-Of-The-Enderman
+
 ## Authors
 
 - [@Melonworld176](https://github.com/melonworld176)
